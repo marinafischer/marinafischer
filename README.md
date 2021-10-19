@@ -3,7 +3,6 @@
 - 📜 Web Development Student at Trybe
 - 🌱 I’m currently learning JS
 - 📩 Contact-me: marinamirandafischer@gmail.com
-- 📍 Find-me: www.linkedin.com/in/marina-miranda-fischer/?locale=en_US
 - 🙂 Pronouns: ela/dela
 
 <div align="center">
