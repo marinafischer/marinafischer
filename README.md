@@ -1,7 +1,7 @@
 ### Hello, I'm Marina Fischer
 
 - 📜 Web Development Student at Trybe
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning React
 - 📩 Contact-me: marinamirandafischer@gmail.com
 - 🙂 Pronouns: ela/dela
 
