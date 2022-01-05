@@ -3,7 +3,7 @@
 - 📜 Web Development Student at Trybe
 - 🌱 I’m currently learning React
 - 📩 Contact-me: marinamirandafischer@gmail.com
-- 🙂 Pronouns: ela/dela
+- 🙂 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/marinafischer">
