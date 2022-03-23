@@ -1,7 +1,7 @@
 ### Hello, I'm Marina Fischer
 
 - 📜 Web Development Student at Trybe
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Docker, SQL e Node
 - 📩 Contact-me: marinamirandafischer@gmail.com
 - 🙂 Pronouns: she/her
 
