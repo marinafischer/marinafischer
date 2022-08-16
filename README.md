@@ -1,7 +1,7 @@
 ### Hello, I'm Marina Fischer
 
 - 📜 Full Stack Web Development
-- 🌱 I’m currently learning - OOP (object-oriented programming)
+- 🌱 I’m currently learning - python
 - 📩 Contact-me: <a href="https://www.linkedin.com/in/marina-miranda-fischer/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  || marinamirandafischer@gmail.com
 - 🙂 Pronouns: she/her
 
